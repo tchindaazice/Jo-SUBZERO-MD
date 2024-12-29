@@ -1,5 +1,5 @@
 {
-  "name": "❄️ SUBZERO MD ❄️",
+  "name": "❄️ JOEL MD ❄️",
   "description": "BOT BY MR FRANK",
   "logo": "https://i.postimg.cc/m2jtqrBC/Screenshot-20241216-090753-Video-Maker.jpg",
   "keywords": ["bot"],
@@ -22,19 +22,19 @@
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "HI DEAR SUBZERO ONLINE.!!♻️"
+      "value": "MERCI DE M'AVOIR CRÉÉ JOEL🍻"
     },
     
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": true,
-      "value": "."
+      "value": "#"
     },
     
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
-      "value": "public"
+      "value": "private"
     }, 
 
     "AUTO_VOICE": {
@@ -88,14 +88,20 @@
     "OWNER_REACT": {
       "description": "Make it true if you want bot OwnerReact.",
       "required": false,
-      "value": "false"
+      "value": "true"
     
     }, 
 
+    "OWNER_NUMBER": {
+      "description": "write owner number",
+      "required": true,
+      "value": "+237682364122"
+    },
+      
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "『 ＳＵＢＺＥＲＯ - ＭＤ』"
+      "value": "『 JOEL - ＭＤ』"
     }, 
 
     "HEART_REACT": {
